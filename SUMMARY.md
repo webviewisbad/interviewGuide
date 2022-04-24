@@ -1,6 +1,6 @@
 # Table of contents
 
-* [《大厂面试指北》](README.md)
+* [《JAVA基础》](README.md)
 * [目录](\_sidebar.md)
 * [docs](docs/README.md)
   * [ArrayList](docs/ArrayList.md)
